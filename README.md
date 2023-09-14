@@ -19,9 +19,9 @@ Realizei as análises que foram executadas nas aulas anteriores usando o Google 
 Conectei as duas planilhas usadas nas aulas anteriores e coloquei a base já corrigida na biblioteca Pandas Profiling citada no conteúdo extra.
 
 ## Roadmap
-Sem dúvidas foi uma imersão muito enriquecedora e pretendo continuar aprendendo e melhorando os projetos desenvovidos durante a imersão:
+Sem dúvidas foi uma imersão muito enriquecedora e pretendo continuar aprendendo e melhorando os projetos desenvolvidos durante a imersão:
 - Aprimorar as análises
 - Gerar visualizações de dados mais eficazes com Python
 - Elaborar relatórios com os insights
 
-Agradeço o time da Alura por estar sempre oferecendo oportunidades de aprender mais! 😊
+Agradeço o time da Alura e PM3 por estar sempre oferecendo oportunidades de aprender mais! 😊
